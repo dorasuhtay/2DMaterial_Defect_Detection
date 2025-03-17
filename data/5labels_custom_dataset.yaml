@@ -1,1 +1,24 @@
+#train: ./5labels_multistr(701515)/train 
+#val: ./5labels_multistr(701515)/val  
+#test: ./5labels_multistr(701515)/test  
+#train: ./MuStr701515add150img/train 
+#val: ./MuStr701515add150img/val  
+#test: ./MuStr701515add150img/test  
+#train: ./MuStr701515wN_A5img/train 
+#val: ./MuStr701515wN_A5img/val  
+#test: ./MuStr701515wN_A5img/test  
+#train: ./MuStr811Total160img/train 
+#val: ./MuStr811Total160img/val  
+#test: ./MuStr811Total160img/test  
+#train: ./MuStr811Total171img/train 
+#val: ./MuStr811Total171img/val  
+#test: ./MuStr811Total171img/test  
+train: ./MuStr811Total2172imgs/train 
+val: ./MuStr811Total2172imgs/val  
+test: ./MuStr811Total2172imgs/test
+# number of classes
+nc: 5
 
+# class names
+#names: ['Nucleation', 'Polymer in Carbon Residue', 'Crack', 'Copper', 'Residue', 'Amorphous Carbon', 'Wrinkle']
+names: ['Crack', 'Wrinkle', 'Residue', 'Lacey Graphene', 'Nucleation']
