@@ -23,3 +23,10 @@ Preprocessing: HSV tuning, segmentation, data augmentation
 Defect Types: Wrinkle, crack, nucleation, residue, lacey graphene
 
 Training: Batch size 2, 300 epochs, Google Colab Free
+
+## 🤖 Technologies Used
+- Python
+- YOLOv7
+- OpenCV
+- Google Colab
+- PyTorch
