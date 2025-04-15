@@ -1,5 +1,5 @@
 # 🧠 Thesis Title
-High-Precision and Rapid Detection of Complex Defects in Transferred 2D Materials Enabled by Machine Learning
+High-Precision and Rapid Detection of Complex Defects in Transferred 2D Materials Enabled by Machine Learning Algorithms
 
 ## 📄 Overview
 This repository contains the code, models, and datasets used in my Master's thesis at National Central University. The research focuses on using AI (specifically YOLOv7 and image processing techniques) for high-precision and real-time detection of defects in 2D materials like graphene.
