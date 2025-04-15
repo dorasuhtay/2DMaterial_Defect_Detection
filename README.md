@@ -15,7 +15,11 @@ Automate annotation and segmentation for efficient dataset preparation.
 ![Image](https://github.com/user-attachments/assets/2ab6ece1-0c36-4a15-a920-7e35a5d71e82)
 
 Optimize YOLOv7 with custom loss functions and HSV tuning for better accuracy.
+
 Evaluate performance based on precision, recall, and accuracy for each defect type.
+
+![Image](https://github.com/user-attachments/assets/afe7388f-1e5d-4bfc-9ab6-b9e78e2ce357)
+![Image](https://github.com/user-attachments/assets/44f26e87-9cae-4ff2-a207-e961ef981bce)
 
 ## 🧪 Methodology
 Model: YOLOv7 for object detection
@@ -34,3 +38,21 @@ Training: Batch size 2, 300 epochs, Google Colab Free
 - OpenCV
 - Google Colab
 - PyTorch
+
+## 📊 Results
+
+Trained on optical microscopy images at 100µm and 10µm.
+
+Real-time detection speed suitable for lab and industrial use.
+100µm:
+
+![Image](https://github.com/user-attachments/assets/be950d3f-1763-4c7e-bc52-1731281721f7)
+
+10µm:
+
+![Image](https://github.com/user-attachments/assets/feff16a7-91f9-48a2-9b32-a70240014c12)
+
+## 📸 Sample Output
+Add here some sample images with bounding boxes showing defect detection.
+![Image](https://github.com/user-attachments/assets/b0237ce4-79e5-4d66-b8bd-14f26a7136a9)
+![Image](https://github.com/user-attachments/assets/179b683e-1303-4928-b42a-dd22705fc7cb)
