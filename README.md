@@ -13,6 +13,7 @@ Automate annotation and segmentation for efficient dataset preparation.
 ![Image](https://github.com/user-attachments/assets/2c691b18-eee3-49ea-9e87-2e8ed845922a)
 ![Image](https://github.com/user-attachments/assets/c0302862-92dd-4802-845f-dab1f8baed6f)
 ![Image](https://github.com/user-attachments/assets/2ab6ece1-0c36-4a15-a920-7e35a5d71e82)
+![Image](https://github.com/user-attachments/assets/7677233b-e324-419d-aae3-ead0c2bc31de)
 
 Optimize YOLOv7 with custom loss functions and HSV tuning for better accuracy.
 
